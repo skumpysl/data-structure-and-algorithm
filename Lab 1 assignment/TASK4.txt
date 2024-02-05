@@ -1,0 +1,13 @@
++---------------------+
+|        List         |
++---------------------+
+| -size: int          |
+| -elements: Object[] |
++---------------------+
+| +getSize(): int     |
+| +isEmpty(): boolean |
+| +get(index: int): Object |
+| +add(index: int, element: Object): void |
+| +remove(index: int): Object |
+| +set(index: int, element: Object): Object |
++---------------------+
